@@ -1,6 +1,6 @@
 /*
 
-Easily extract arraye elements or object properties and store them in a variable.
+Easily extract array elements or object properties and store them in a variable.
 
 Array destructuring
 
